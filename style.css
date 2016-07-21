@@ -1,0 +1,70 @@
+
+
+body {
+    background-image: url("ombre2.jpg");
+}
+
+h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+
+
+  }
+p, {
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+p,h2,h3,h4,h5 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+    text-align: left;
+    font-weight: lighter;
+}
+
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
