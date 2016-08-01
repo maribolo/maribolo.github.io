@@ -162,30 +162,30 @@ body {
 
 #About {
   padding-top: 50px;
-  height: 1000px;
+  height: 1000px; 
   color: #fff;
-  background-color: green;
+  background-color: #cc99ff;
 }
 
 #Services {
   padding-top: 50px;
   height:1000px;
   color: #fff;
-  background-color: #673ab7;
+  background-color:  #cc66ff;
 }
 
 #Clients {
   padding-top: 50px;
   height: 1000px;
   color: #fff;
-  background-color: #ff9800;
+  background-color: #cc33ff;
 }
 
 #Contact {
   padding-top: 50px;
   height: 1000px;
   color: #fff;
-  background-color: #00bcd4;
+  background-color: #cc00ff;
 }
 
 .hideme{
